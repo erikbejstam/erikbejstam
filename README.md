@@ -1,6 +1,6 @@
 # Me...
 
-Architect of Recursive Paradigm Realignment for Distributed Meta-Containerized Synapse Orchestration within hyper-adaptive quantum stack environments; led the Translingual Refactoring Initiative at the Intercontinental Bureau of Abstract Syntax Ontologies and Cross-Platform Thought Virtualization.
+Really into Abstract Mega-Baesian Proto-Syntax Ontologies and Cross-Quantum Thought Virtualization. Can write `hello world` in multiple languages
 
 
 ## Currently learning

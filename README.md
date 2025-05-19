@@ -1,4 +1,13 @@
-## Hi there 👋
+# My experience...
+
+Director of Quantum Syntax Integration for cross-dimensional algorithmic reconfiguration and multi-layered data convergence, leveraging hyper-iterative neural-fusion protocols to enhance scalable exo-coding paradigms while optimizing the synergy between blockchain-centric paradigmatic vectors and recursive macro-optimization frameworks in real-time computational ecosystems. Spiritual coder
+
+
+## Currently learning
+    - Real-time rendering of speculative data shadows
+    - Scaling perspectival confusion
+    - Google
+    - Baleen cetaceans
 
 <!--
 **erikbejstam/erikbejstam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
